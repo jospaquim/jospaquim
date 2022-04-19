@@ -11,5 +11,5 @@ I have experience in Frontend with HTML, CSS, Bootstrap. ⚡⚡
 - 🌟 I love learn about any new technology.
 
 
-![Jose Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jospaqui&show_icons=true&theme=algolia)
+![Jose Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jospaquim&show_icons=true&theme=algolia)
 
