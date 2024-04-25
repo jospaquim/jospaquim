@@ -12,6 +12,6 @@ Hi! I'm Jose Luis Paquiyauri a Data Engineer and Computer and Systems Engineer. 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jospaquim&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Jose Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jospaquim&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospaquim&layout=compact&theme=radical&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospaquim&layout=compact&theme=radical&hide_border=True)](https://github.com/jospaquim/github-readme-stats)
 
 
