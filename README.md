@@ -1,16 +1,3 @@
-Hi!!, I'm Jose Luis, I'm a Peruvian 🇵🇪 engineering student by the day and also developer by the night.   
-I love coding in Pyhton 🐍.   
-I study Computer and System Engineering at San Ignacio de Loyola University ❤️.  
-I have experience in Frontend with HTML, CSS, Bootstrap. ⚡⚡
-
-- ⚡ I am currently deepening my knowledge in Python and SQL.
-- 💜 I love to walk around listening to music.
-- 🌟 I love learning about any new technology.
-- 🖥️ I am looking to collaborate on Data Science projects. 
-
-
-![Jose Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jospaquim&show_icons=true&theme=algolia)
-
 # 💫 About Me:
 Hi! I'm Jose Luis Paquiyauri a Data Engineer and Computer and Systems Engineer. Since 2023 I started to study Data Science. Here you can find info about my tech stack and some of the projects I've worked on so far. If you want more info about me you can look at my linkedin or my digital CV<br>
 
@@ -23,6 +10,7 @@ Hi! I'm Jose Luis Paquiyauri a Data Engineer and Computer and Systems Engineer. 
 
 # 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jospaquim&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Jose Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=jospaquim&show_icons=true&theme=algolia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospaquim&layout=compact&theme=radical&hide_border=True)](https://github.com/anuraghazra/github-readme-stats)
 
