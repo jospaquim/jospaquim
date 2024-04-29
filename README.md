@@ -3,7 +3,6 @@
 ```python
 class AboutMe():
   # I'm a passionate self-taught programmer.
-  # I’m currently learning Airflow.
     
   def __init__(self):
     self.name = "Jose Luis Paquiyauri"
