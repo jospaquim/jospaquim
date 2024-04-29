@@ -68,9 +68,8 @@ if __name__ == '__main__':
 
 <p align=center>
   <div align=center>
-    <picture>
-      <img align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=jospaquim&theme=algolia&hide_border=true" />
-    </picture>
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=jospaquim&theme=algolia&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jospaquim&theme=algolia&hide_border=true&langs_count=6&layout=compact" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jospaquim&langs_count=6&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
