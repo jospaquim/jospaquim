@@ -5,7 +5,7 @@ class AboutMe():
   # I'm a passionate self-taught programmer.
     
   def __init__(self):
-    self.name = "Jose Luis Paquiyauri"
+    self.name = "Jose Luis"
     self.username = "jospaquim"
     self.location = "Lima, Peru"
     self.portfolio = "https://jospaquim.github.io"
