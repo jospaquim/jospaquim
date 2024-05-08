@@ -9,7 +9,6 @@ class AboutMe():
     self.username = "jospaquim"
     self.location = "Lima, Peru"
     self.portfolio = "https://jospaquim.github.io"
-    self.intro = "Hi! I'm a Data Engineer and Computer and Systems Engineer. Since 2023 I started to study Data Science. Here you can find info about my tech stack and some of the projects I've worked on so far. If you want more info about me you can look at my linkedin."
   
   def __str__(self):
     return self.name
