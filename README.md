@@ -8,7 +8,6 @@ class AboutMe():
     self.name = "Jose Luis"
     self.username = "jospaquim"
     self.location = "Lima, Peru"
-    self.portfolio = "https://jospaquim.github.io"
   
   def __str__(self):
     return self.name
