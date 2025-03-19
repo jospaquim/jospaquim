@@ -18,7 +18,7 @@ if __name__ == '__main__':
 ```
 
 
-
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jospaquim) 
 
@@ -59,8 +59,7 @@ if __name__ == '__main__':
 ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jirasoftware&logoColor=white)
-
-
+--> 
 # 🔥 My Stats :
 
 <p align=center>
